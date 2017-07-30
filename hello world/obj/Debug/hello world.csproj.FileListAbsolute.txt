@@ -1,0 +1,5 @@
+F:\Armine\2017_courses\Git\hello-world\hello world\bin\Debug\hello world.exe.config
+F:\Armine\2017_courses\Git\hello-world\hello world\bin\Debug\hello world.exe
+F:\Armine\2017_courses\Git\hello-world\hello world\bin\Debug\hello world.pdb
+F:\Armine\2017_courses\Git\hello-world\hello world\obj\Debug\hello world.exe
+F:\Armine\2017_courses\Git\hello-world\hello world\obj\Debug\hello world.pdb
